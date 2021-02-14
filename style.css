@@ -8,7 +8,7 @@ body {
   justify-content: center;
 }
 .logo-image {
-  width: 140px;
+  width: 160px;
   text-align: center;
   display: block;
 }
@@ -38,13 +38,13 @@ h2 {
   width: 90px;
 }
 .top-div {
-  font-size: 2.5rem;
+  font-size: 3rem;
   text-align: center;
   color: #ff6347;
 }
 #about-section {
   background-color: #fde0db;
-  height: 150px;
+  padding: 20px;
 }
 
 .logo-head {
