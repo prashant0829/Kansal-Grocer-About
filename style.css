@@ -8,17 +8,13 @@ body {
   justify-content: center;
 }
 .logo-image {
-  width: 160px;
-  /* height: 25%; */
-  /* display: flex;
-  flex: 0.3; */
+  width: 140px;
   text-align: center;
   display: block;
 }
 .logo_section {
   display: flex;
   flex: 0.3;
-  /* background-color: red; */
   justify-content: center;
   align-items: center;
 }
@@ -31,15 +27,7 @@ h2 {
   color: #ff6347;
 }
 .about-para {
-  /* display: flex;
-  justify-content: center;
-  align-items: center;
-  /* background-color: blue; */
-  /* flex-direction: column; */
-}
-.about-para {
   font-size: 1.2em;
-  /* margin-top: 2rem; */
   text-align: justify;
   color: #3d3d3d;
 }
@@ -49,28 +37,20 @@ h2 {
 .list-images {
   width: 90px;
 }
-.brand-name {
-  font-size: 4.2rem;
+.top-div {
+  font-size: 2.5rem;
   text-align: center;
   color: #ff6347;
 }
-/* .about-para p {
-  margin: 0;
-  color: #ff6347;
-} */
-
 #about-section {
   background-color: #fde0db;
-  padding: 20px;
+  height: 150px;
 }
 
 .logo-head {
   color: #ff6347;
 }
 .list-items {
-  /* justify-content: space-between; */
-  /* flex-wrap: wrap; */
-  /* align-items: center; */
   border: 1px solid black;
 }
 
@@ -84,13 +64,7 @@ h2 {
   font-size: 20px;
 }
 .list-items p {
-  /* border: 2px solid black; */
-  /* list-style: none; */
-  /* padding: 5px; */
   font-size: 25px;
-  /* width: 400px; */
-  /* text-align: center; */
-  /* margin: 5px; */
 }
 .info-text {
   font-size: 20px;
